@@ -12,7 +12,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="dreamland" target="1.5" />
-      <module name="dreamlandweb" target="1.5" />
+      <module name="dreamlandweb" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
